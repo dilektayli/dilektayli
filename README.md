@@ -31,14 +31,16 @@ to projects where engineering, research, and impact intersect.
 - **Databases & Tools:** MySQL, Firebase, Git, Selenium, Postman
 
 ---
-
-## 📌 Featured Projects
-- **Take Care of You** – Meditation and wellness mobile app with authentication and progress tracking
-- **MethComRing** – Shiny-based web tool for inter-laboratory comparison in metabolomics research
-- **Planty** – Smart agriculture mobile application (Top 10 – Flutter Test Hackathon)
-- **Flamingo** – Mobile reservation application developed with Flutter
-
+### 📌 Featured Projects
+- **MethComRing** – Shiny-based web tool for visualization of circular heatmaps to identify inter-laboratory variation in metabolomics and lipidomics ring studies; contributed as part of a TÜBİTAK-supported research project.
+- **AutoCare** – TÜBİTAK 2209-A supported smart driver emergency detection and V2X communication system; focused on post-emergency decision support.
+- **HaySa** – IoT-based livestock health monitoring system integrating real-time sensor data and machine learning models; selected for TÜBİTAK BIGG entrepreneurship program.
+- **Bee Tourist** – Mobile application focusing on tourism and location-based experiences; UI/UX design and mobile development using Flutter and Figma.
+- **Take Care of You** – Mobile meditation and wellness application developed with Flutter; includes user authentication, guided meditation sessions, and progress tracking.
+- **Planty** – Smart agriculture mobile application; selected among the Top 10 projects in the Flutter Test Hackathon.
+- **Flamingo** – Mobile reservation application developed with Flutter and Dart; published and tested in a real-user environment.
 ---
+
 
 ## 📄 Research & Publications
 - *MethComRing: A Shiny Web-Tool for Visualization of Circular Heatmaps to Identify 
