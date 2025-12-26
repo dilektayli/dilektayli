@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **dilektayli/dilektayli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -57,4 +55,4 @@ to projects where engineering, research, and impact intersect.
 
 ## 📫 Get in Touch
 - **LinkedIn:** https://www.linkedin.com/in/dilektayli
-- **GitHub:** https://github.com/dilektayli
+- **Mail:** dilektayli@gmail.com
